@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1384029454 source:c:\users\paulo vitor\desktop\nova pasta\parte 2\main.c
+	<allegro.h>
+	"teclado.h"
+
+1384029450 source:c:\users\paulo vitor\desktop\nova pasta\parte 2\teclado.c
+	"teclado.h"
+
+1384025190 c:\users\paulo vitor\desktop\nova pasta\parte 2\teclado.h
+	<allegro.h>
+
+1384029450 source:c:\users\paulo vitor\desktop\projeto aed(antigo)\parte 2\teclado.c
+	"teclado.h"
+
+1384025190 c:\users\paulo vitor\desktop\projeto aed(antigo)\parte 2\teclado.h
+	<allegro.h>
+
+1390917834 source:c:\users\paulo vitor\desktop\projeto aed(antigo)\parte 2\main.c
+	<allegro.h>
+	"teclado.h"
+

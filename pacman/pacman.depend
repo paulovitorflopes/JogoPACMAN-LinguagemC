@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1392207707 source:c:\users\paulo vitor\desktop\projeto pacman\pacman\main.c
+	<allegro.h>
+	"teclado.h"
+	<stdlib.h>
+	<stdio.h>
+
+1384029450 source:c:\users\paulo vitor\desktop\projeto pacman\pacman\teclado.c
+	"teclado.h"
+
+1384025190 c:\users\paulo vitor\desktop\projeto pacman\pacman\teclado.h
+	<allegro.h>
+
